@@ -1,6 +1,7 @@
 # Prediction Of Outcome & Location (POOL)
 
-This is the github repo for code accompanying the paper: "Multi-centre Epilepsy Lesion Detection (MELD) Project: Predictors of lesion location and postsurgical seizure freedom in focal cortical dysplasia" (insert link to preprint / paper).
+This is the github repo for code accompanying the paper: "Multi-centre Epilepsy Lesion Detection (MELD) Project: Predictors of lesion location and postsurgical seizure freedom in focal cortical dysplasia" 
+https://www.medrxiv.org/content/10.1101/2021.02.01.21250734v1 .
 
 ### To install the pool package:
 Most packages will be automatically installed with
