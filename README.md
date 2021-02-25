@@ -25,9 +25,14 @@ The demographics.csv file has a row for each patient and has the following colum
 The lesions.npz file has a row for each patient and a column for every vertex on fsaverage_sym. 0 = non lesional vertex. 1 = lesional vertex.
 
 #### To run the preprocessing on the MELD data
+Users will need to edit the paths in pool/paths.py to reflect their own file structure.
+Other scripts look inside paths to find out where data is stored.
+
 cd scripts
 
 bash preprocess_qc.sh
+
+
 
 ### Notebook 1: Demographics table
 This notebook:
